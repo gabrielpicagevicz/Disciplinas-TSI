@@ -1,1 +1,12 @@
-teste
+TAREFA
+Tarefa de Casa
+
+Crie um perfil no GitHub (caso ainda não possua um)
+Instale e configure o GitBash
+Crie um projeto "Disciplinas TSI"
+Crie uma pasta "Análise e Projeto de Sistemas II"
+Utilizando um editor de texto crie um arquivo para a documentação do projeto
+Faça o primeiro commit
+
+
+Submeter o link do perfil no GitHub
